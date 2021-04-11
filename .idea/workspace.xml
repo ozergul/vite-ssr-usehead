@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bff805d8-d7a3-432c-9610-c556c4e93f29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue-router.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/.testPages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/PageLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/PageLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/_default.page.client.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/_default.page.server.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_default/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/_error.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/about/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/about/index.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/pages/index.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/server/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react-ts/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_default/PageLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_default/PageLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/_error.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/about/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/about/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/pages/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-react/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/PageLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/_default.page.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/_default.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_default/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/_error.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/about.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/index/Counter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/pages/index/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/server/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue-ts/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_default/PageLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_default/_default.page.client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_default/_default.page.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_default/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/_error.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/about.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/index/Counter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/pages/index/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/boilerplate-vue/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boilerplates/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/changelog.source.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/changelog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/discord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/twitter_buttons.source.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/twitter_follow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/twitter_retweet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.testPages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.test-prod:server.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.test-prod:static.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/.testPages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_components/Link.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_default/PageLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_default/PageLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/_error.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/about/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/about/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/pages/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base-url/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_default/PageLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_default/PageLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/_error.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/about/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/about/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/pages/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/worker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/worker/ssr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/worker/static-assets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/worker/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudflare-workers/wrangler.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/.test.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/pages/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/pages/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/pages/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphql-apollo/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/pages/all.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/pages/all.page.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-router/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_components/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_default/PageLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_default/PageLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_default/_default.page.client.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_default/_default.page.server.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/_error.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/hello/index.page.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/hello/index.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/hello/index.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/index.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/markdown.page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/index.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/index.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/movie.page.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/movie.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/movie.page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/pages/star-wars/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/server/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/.test.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/pages/_default/_default.page.client.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/pages/_default/_default.page.server.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/pages/_default/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/pages/index.page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/all.page.client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/all.page.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/all.page.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/all.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/.test-dev.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/.test-prod.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_components/Counter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_default/PageLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_default/_default.page.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_default/_default.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_default/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_default/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/_error.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/hello/index.page.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/hello/index.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/hello/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/markdown.page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/index.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/movie.page.route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/movie.page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/movie.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/pages/star-wars/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/server/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/.test.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/pages/_default/_default.page.client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/pages/_default/_default.page.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/pages/_default/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/pages/_default/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/pages/index.page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/bump-dependencies.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/bump-lockfiles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/helpers/getDependers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/helpers/locations.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/helpers/runCommand.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/install-examples.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/link.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/release.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/unlink.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/baseUrlHandling.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/bin/vite-plugin-ssr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/cli/bin.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/cli/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/getPage.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/getUrl.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/navigationState.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/getPageByUrl.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/getPageId.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/getPageProps.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/index.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/client/router/useClientRouter.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/createPageRender.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/getPreloadTags.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/getViteManifest.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/html.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/page-files/getPageFiles.shared.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/page-files/pageFiles.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/page-files/pageFiles.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/page-files/setup.client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/page-files/setup.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/buildPlugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/devPlugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/importerPlugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/manifestPlugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/ssrConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/plugin/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/prerender.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/renderPage.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/route.shared.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ssrEnv.node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/assert.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/cast.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/getFileUrl.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/hasProp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/isCallable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/isNodejs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/isPromise.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/parseUrl.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/sorter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/utils/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/utils/partRegExp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/utils/sleep.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/utils/slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todo.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1r25IEaE8KMIfBu0hwqwgTS24jU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bff805d8-d7a3-432c-9610-c556c4e93f29" name="Default Changelist" comment="" />
+      <created>1618161261409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618161261409</updated>
+      <workItem from="1618161262565" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2507" height="390" key="GridCell.Tab.0.bottom" timestamp="1618161354934">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2507" height="390" key="GridCell.Tab.0.bottom/0.0.1707.930/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1618161354934" />
+    <state width="2507" height="390" key="GridCell.Tab.0.center" timestamp="1618161354934">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2507" height="390" key="GridCell.Tab.0.center/0.0.1707.930/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1618161354934" />
+    <state width="2507" height="390" key="GridCell.Tab.0.left" timestamp="1618161354934">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2507" height="390" key="GridCell.Tab.0.left/0.0.1707.930/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1618161354934" />
+    <state width="2507" height="390" key="GridCell.Tab.0.right" timestamp="1618161354934">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2507" height="390" key="GridCell.Tab.0.right/0.0.1707.930/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1618161354934" />
+  </component>
+</project>
